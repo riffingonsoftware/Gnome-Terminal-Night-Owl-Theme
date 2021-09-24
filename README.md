@@ -26,7 +26,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/edurojasr/night-owl--gno
 
 ## Fonts
 
-Really greate font that I like [Cascadia Code](https://github.com/microsoft/cascadia-code)
+Really great font that I like [Cascadia Code](https://github.com/microsoft/cascadia-code)
 
 ## Credits
 
