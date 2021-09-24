@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 
-# ONE LIGHT
+# Light Owl
 # --- ----
 # Gnome Terminal color scheme install script
-# Based on:
-#   https://github.com/chriskempson/base16-gnome-terminal/
+# Based on: denysdovhan
+#   https://github.com/denysdovhan/one-gnome-terminal
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="One Light"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="one-light"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Light Owl"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="light-owl"
 [[ -z "$DCONF" ]] && DCONF=dconf
 [[ -z "$UUIDGEN" ]] && UUIDGEN=uuidgen
 
@@ -63,10 +63,10 @@ if which "$DCONF" > /dev/null 2>&1; then
 
         # update profile values with theme options
         dset visible-name "'$PROFILE_NAME'"
-        dset palette "['#000000', '#E45649', '#50A14F', '#986801', '#4078F2', '#A626A4', '#0184BC', '#A0A1A7', '#5c6370', '#E45649', '#50A14F', '#986801', '#4078F2', '#A626A4', '#0184BC', '#ffffff']"
-        dset background-color "'#F9F9F9'"
-        dset foreground-color "'#383A42'"
-        dset bold-color "'#383A42'"
+        dset palette "['#403F53', '#DE3D3B', '#08916A', '#E0AF02', '#288ED7', '#D6438A', '#2AA298', '#F0F0F0', '#403F53', '#DE3D3B', '#08916A', '#DAAA01', '#288ED7', '#D6438A', '#2AA298', '#979797']"
+        dset background-color "'#FBFBFB'"
+        dset foreground-color "'#403F53'"
+        dset bold-color "'#403F53'"
         dset bold-color-same-as-fg "true"
         dset use-theme-colors "false"
         dset use-theme-background "false"
@@ -113,10 +113,10 @@ glist_append() {
 glist_append string /apps/gnome-terminal/global/profile_list "$PROFILE_SLUG"
 
 gset string visible_name "$PROFILE_NAME"
-gset string palette "#000000:#E45649:#50A14F:#986801:#4078F2:#A626A4:#0184BC:#A0A1A7:#5c6370:#e06c75:#50A14F:#986801:#4078F2:#A626A4:#0184BC:#ffffff"
-gset string background_color "#F9F9F9"
-gset string foreground_color "#383A42"
-gset string bold_color "#383A42"
+gset string palette "#403f53:#de3d3b:#08916a:#e0af02:#288ed7:#d6438a:#2aa298:#f0f0f0:#403f53:#de3d3b:#08916a:#daaa01:#288ed7:#d6438a:#2aa298:#979797"
+gset string background_color "#fbfbfb"
+gset string foreground_color "#403f53"
+gset string bold_color "#403f53"
 gset bool   bold_color_same_as_fg "true"
 gset bool   use_theme_colors "false"
 gset bool   use_theme_background "false"

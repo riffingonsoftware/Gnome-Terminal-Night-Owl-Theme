@@ -1,22 +1,20 @@
-![One Dark preview][preview-img]
+#  sdras Night Owl theme for GNOME Terminal
 
-# One for GNOME Terminal
+Here are Night Owl and Light Owl themes for GNOME Terminal (available on Ubuntu, Fedora, Elementary OS, etc). These themes use [color palette](COLORS) from original [Night Owl](https://github.com/sdras/night-owl-vscode-theme/blob/main/themes/Night%20Owl-color-theme.json) and [Light Owl](https://github.com/sdras/night-owl-vscode-theme/blob/main/themes/Night%20Owl-Light-color-theme.json) syntax theme.
 
-> Atom's One themes for GNOME Terminal
+## Installation
 
-Here are One Dark and One Light themes for GNOME Terminal (available on Ubuntu, Fedora, Elementary OS, etc). These themes use [color palette][palette] from original Atom's [One Dark][one-dark-syntax] and [One Light][one-light-syntax] syntax theme.
+For installation just execute desired command below. **Be careful, terminal may closed after install.**
 
-## Instalation
+This scripts creates a new profile for each version of the theme, I advice make a backup of your current profile to avoid losing it.
 
-For installation just execute desired command below. Be careful, terminal will be closed after install.
-
-**One Dark**
+**Night Owl**
 
 ```
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/denysdovhan/gnome-terminal-one/master/one-dark.sh)"
 ```
 
-**One Light**
+**Light Owl**
 
 ```
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/denysdovhan/gnome-terminal-one/master/one-light.sh)"
@@ -24,17 +22,15 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/denysdovhan/gnome-termin
 
 ## Fonts
 
-I recommend to use [Inconsolata][inconsolata] or [Fira Mono][fira-mono] fonts for better compatibility with Atom Editor.
+Really greate font that I like [Cascadia Code](https://github.com/microsoft/cascadia-code)
+
+## Credits
+
+* Scripts base on: [denysdovhan](https://github.com/denysdovhan/one-gnome-terminal)
+* Theme colors base on: [sdras](https://github.com/sdras/night-owl-vscode-theme)
+
+Thanks you! :)
 
 ## License
 
-[MIT][mit-license] © [Denys Dovhan][denysdovhan]
-
-[preview-img]: https://cloud.githubusercontent.com/assets/3459374/9424856/7ca61f48-4904-11e5-9f89-68345e3e1a5d.png
-[palette]: ./COLORS
-[one-dark-syntax]: https://atom.io/themes/one-dark-syntax
-[one-light-syntax]: https://atom.io/themes/one-light-syntax
-[inconsolata]: https://www.google.com/fonts/specimen/Inconsolata
-[fira-mono]: https://github.com/mozilla/Fira
-[mit-license]: http://opensource.org/licenses/MIT
-[denysdovhan]: http://denysdovhan.com/
+[MIT](LICENSE.mb)
