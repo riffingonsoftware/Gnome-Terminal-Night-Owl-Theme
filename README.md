@@ -1,6 +1,10 @@
 #  sdras Night Owl theme for GNOME Terminal
 
-Here are Night Owl and Light Owl themes for GNOME Terminal (available on Ubuntu, Fedora, Elementary OS, etc). These themes use [color palette](COLORS) from original [Night Owl](https://github.com/sdras/night-owl-vscode-theme/blob/main/themes/Night%20Owl-color-theme.json) and [Light Owl](https://github.com/sdras/night-owl-vscode-theme/blob/main/themes/Night%20Owl-Light-color-theme.json) syntax theme.
+![Night Owl](img/night-owl-gnome-terminal.png)
+---
+![Light Owl](img/light-owl-gnome-terminal.png)
+
+Here are Night Owl and Light Owl themes for GNOME Terminal (available on Ubuntu, Fedora, Elementary OS, etc). These themes use this adaptation of [color palette](COLORS) from original [Night Owl](https://github.com/sdras/night-owl-vscode-theme/blob/main/themes/Night%20Owl-color-theme.json) and [Light Owl](https://github.com/sdras/night-owl-vscode-theme/blob/main/themes/Night%20Owl-Light-color-theme.json) syntax theme.
 
 ## Installation
 
@@ -11,13 +15,13 @@ This scripts creates a new profile for each version of the theme, I advice make 
 **Night Owl**
 
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/denysdovhan/gnome-terminal-one/master/one-dark.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/edurojasr/night-owl--gnome-terminal/master/night-owl.sh)"
 ```
 
 **Light Owl**
 
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/denysdovhan/gnome-terminal-one/master/one-light.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/edurojasr/night-owl--gnome-terminal/master/light-owl.sh)"
 ```
 
 ## Fonts
