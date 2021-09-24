@@ -30,7 +30,7 @@ Really great font that I like [Cascadia Code](https://github.com/microsoft/casca
 
 ## Credits
 
-* Scripts base on: [denysdovhan](https://github.com/denysdovhan/one-gnome-terminal)
+* Bash scripts base on: [denysdovhan](https://github.com/denysdovhan/one-gnome-terminal)
 * Theme colors base on: [sdras](https://github.com/sdras/night-owl-vscode-theme)
 
 Thanks you! :)
