@@ -14,6 +14,8 @@ For installation just execute desired command below. **Be careful, terminal may 
 
 This scripts creates a new profile for each version of the theme, I advice make a backup of your current profile to avoid losing it.
 
+You need to have a profile to override
+
 **Night Owl**
 
 ```
