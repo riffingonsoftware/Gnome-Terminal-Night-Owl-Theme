@@ -1,24 +1,24 @@
 Night Owl                      Light Owl
 
-Black:          #011627        Black:          #403F53
-Bright Black:   #969696        Bright Black:   #403F53
-Red:            #EF5350        Red:            #DE3D3B
-Bright Red:     #EF5350        Bright Red:     #DE3D3B
-Green:          #22DA6E        Green:          #08916A
-Bright Green:   #22DA6E        Bright Green:   #08916A
-Yellow:         #ADDB67        Yellow:         #E0AF02
-Bright Yellow:  #FFEB95        Bright Yellow:  #DAAA01
-Blue:           #82AAFF        Blue:           #288ED7
-Light Blue:     #82AAFF        Light Blue:     #288ED7
-Magenta:        #C792EA        Magenta:        #D6438A
-Light Magenta:  #C792EA        Light Magenta:  #D6438A
-Cyan:           #21C7A8        Cyan:           #2AA298
-Light Cyan:     #7FDBCA        Light Cyan:     #2AA298
-White:          #FFFFFF        White:          #F0F0F0
-Bright White:   #FFFFFF        Bright White:   #979797
-Text:           #FFFFFF        Text:           #403F53
-Bold Text:      #FFFFFF        Bold Text:      #403F53
-Selection:      #1d3b53        Selection:      #E0E0E0
-Cursor:         #80a4c2        Cursor:         #90A7B2
-Background:     #011627        Background:     #FBFBFB
-Foreground:     #D6DEEB        Foreground:     #403F53
+Black:          #011627        Black:          #403f53
+Bright Black:   #575656        Bright Black:   #403f53
+Red:            #ef5350        Red:            #de3d3b
+Bright Red:     #ef5350        Bright Red:     #de3d3b
+Green:          #22da6e        Green:          #08916a
+Bright Green:   #22da6e        Bright Green:   #08916a
+Yellow:         #c5e478        Yellow:         #e0af02
+Bright Yellow:  #ffeb95        Bright Yellow:  #daaa01
+Blue:           #82aaff        Blue:           #288ed7
+Light Blue:     #82aaff        Light Blue:     #288ed7
+Magenta:        #c792ea        Magenta:        #d6438a
+Light Magenta:  #c792ea        Light Magenta:  #d6438a
+Cyan:           #21c7a8        Cyan:           #2aa298
+Light Cyan:     #7fdbca        Light Cyan:     #2aa298
+White:          #ffffff        White:          #f0f0f0
+Bright White:   #ffffff        Bright White:   #F0F0F0
+Text:           #ffffff        Text:           #403f53
+Bold Text:      #ffffff        Bold Text:      #403f53
+Selection:      #1d3b53        Selection:      #e0e0e0
+Cursor:         #80a4c2        Cursor:         #90a7b2
+Background:     #011627        Background:     #fbfbfb
+Foreground:     #d6deeb        Foreground:     #403f53
